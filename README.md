@@ -10,4 +10,4 @@ I am a 19-year-old developer and physics enthusiast focused on bridging the gap 
 - **Languages:** Python (Scientific Computing Focus) , Langchain , Langgraph 
 - **Libraries:** SymPy, NumPy, Matplotlib
 - **Concepts:** Tensor Calculus, Differential Geometry, Classical Mechanics
-- 
+
